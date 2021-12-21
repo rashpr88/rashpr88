@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rashpr88
+- 👋 Hi, I’m Rashini de Silva 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning bioinformatics 
 - 💞️ I’m looking to collaborate on software projects
